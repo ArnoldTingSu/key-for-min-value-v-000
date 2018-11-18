@@ -13,4 +13,3 @@ lowest_value = nil
 
 lowest_item
 end
-end
